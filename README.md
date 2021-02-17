@@ -1,14 +1,8 @@
 # Opsive Third Person Controller Action Set
 
-Custom Playmaker actions for Opsives Third Person Controller  
+Custom Playmaker actions for Opsives Third Person Controller **VERSION 1**. This set does not work with Version 2.
 
 These c# files have been created to be used in conjunction with the Unity3d asset TextMesh Pro found on the Unity Asset Store (currently for free). https://www.assetstore.unity3d.com/en/#!/content/84126
-
-## How You Can Help
-
-This package was partially funded through generous donors of the Dumb Game Dev Patreon Account: https://www.patreon.com/playmaker
-
-A few dollars a month in support go a long way in assisting me develop more Playmaker actions that are released completely for free under the license below. **For more Playmaker action sets released for free, please consider pledging a few dollars a month** 
 
 
 ## License
